@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/jcheung/Documents/projects/chatbox/model.tflearn"
+all_model_checkpoint_paths: "/Users/jcheung/Documents/projects/chatbox/model.tflearn"
